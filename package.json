@@ -1,6 +1,6 @@
 {
-  "name": "fhir-js-client",
-  "version": "0.1.15",
+  "name": "fhir-js-client-ec",
+  "version": "0.1.16",
   "description": "JavaScript client for Fast Healthcare Interoperability Resources",
   "author": "Josh Mandel <joshua.mandel@childrens.harvard.edu>",
   "license": "ISC",
@@ -28,6 +28,6 @@
   "engine": "node >= 0.6.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smart-on-fhir/client-js.git"
+    "url": "git+https://github.com/DoctorDecisions/client-js.git"
   }
 }
