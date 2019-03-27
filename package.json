@@ -1,8 +1,8 @@
 {
   "name": "fhir-js-client-ec",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "JavaScript client for Fast Healthcare Interoperability Resources",
-  "author": "Josh Mandel <joshua.mandel@childrens.harvard.edu>",
+  "author": "Chase <support@evidence.care>",
   "license": "ISC",
   "dependencies": {
     "browserify": "^16.2.3",

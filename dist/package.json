@@ -1,6 +1,6 @@
 {
   "name": "fhirclient-ec",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "SMART FHIR JS Client",
   "main": "fhir-client.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/DoctorDecisions/client-js",
   "dependencies": {
-    "fhir-js-client-ec": "^0.1.16"
+    "fhir-js-client-ec": "^0.1.17"
   }
 }
